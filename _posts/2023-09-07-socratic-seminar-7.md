@@ -2,7 +2,7 @@
 layout: post
 published: false
 type: socratic
-title: "Socratic Seminar 5"
+title: "Socratic Seminar 7"
 meetup: https://www.meetup.com/norfolk-bitdevs/events/292407319/
 ---
 
