@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 type: socratic
 title: "Socratic Seminar 5 🚢🤫"
 meetup: https://www.meetup.com/norfolk-bitdevs/events/292407319/
@@ -23,10 +23,13 @@ Please make sure you are RSVP'd for entry via Meetup to gain access to the build
 
 ## Lightning
 
+- [Taproot Channel Transactions](https://ellemouton.com/posts/taproot-chan-txs/)
+
 ### BOLTs
 
 ## Privacy
 
 ## Miscellaneous
 
+- [Bitcoin Optech Newsletter #257 Recap Podcast](https://bitcoinops.org/en/podcast/2023/06/29/#preventing-coinjoin-pinning-with-v3-transaction-relay)
 - There is a new type of second layer protocol called [ARK](https://github.com/fiksn/awesome-ark).  It is in early stages, and might lead to some interesting ideas for Bitcoin UX.
