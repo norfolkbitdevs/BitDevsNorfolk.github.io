@@ -3,10 +3,10 @@ layout: post
 published: true
 type: socratic
 title: "Socratic Seminar 5 🚢🤫"
-meetup: https://www.meetup.com/norfolk-bitdevs/events/292407319/
+meetup: https://www.meetup.com/norfolk-bitdevs/events/294621564/
 ---
 
-👋 Please join us for our **fourth** Socratic Seminar. A special thank you to [AssemblyNFK](https://www.assemblynfk.com) for the event space! 🙏
+👋 Please join us for our **fifth** Socratic Seminar. A special thank you to [AssemblyNFK](https://www.assemblynfk.com) for the event space! 🙏
 
 Please make sure you are RSVP'd for entry via Meetup to gain access to the building.
 
@@ -24,10 +24,6 @@ Please make sure you are RSVP'd for entry via Meetup to gain access to the build
 ## Lightning
 
 - [Taproot Channel Transactions](https://ellemouton.com/posts/taproot-chan-txs/)
-
-### BOLTs
-
-## Privacy
 
 ## Miscellaneous
 
